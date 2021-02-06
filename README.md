@@ -32,7 +32,7 @@ The <aside> element has two purposes, depending on whether it is inside an <arti
 The <section> element groups related content together, and typically each section would have its own heading.
 
 -**Heading Groups ;<hgroup>
-The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading
+The purpose of the <hgroup> element is to group together a set of one or more h1 through h6 elements so that they are treated as one single heading
 
 -**Figures;<figure> <figcaption>
  It can be used to contain any content that is referenced from the main flow of an article (not just images). 
